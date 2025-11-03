@@ -1,0 +1,7 @@
+*/.ipynb_checkpoints/*
+*/__pycache__/*
+data/
+.DS_Store
+*.xlsx
+*.pickle
+.env
